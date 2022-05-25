@@ -1,6 +1,6 @@
-## HeroDigital Basic form
+## Animation Journey Task 1
 
-A small form built with vanilla js
+Rotating 3D shapes that follow the cursor.
 
 ## Requirements
 
